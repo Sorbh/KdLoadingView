@@ -38,6 +38,12 @@ After Importing this library you can directly use this view in your view xml
             app:tint="@color/colorPrimary"
             app:animation="@anim/rotate"
             app:anim_duration="2000"/>
+            
+  For now you can use 3 custom attributes
+
+  * app:tint="@color/colorPrimary" - Color for loading view
+  * app:animation="@anim/rotate" - Can set custom animaton drawable
+  * app:anim_duration="2000" - Animation time in ms
   
 # Screenshots
 ##### FileManager Dialog with root project color accent
