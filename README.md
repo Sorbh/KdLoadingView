@@ -46,7 +46,6 @@ After Importing this library you can directly use this view in your view xml
   * app:anim_duration="2000" - Animation time in ms
   
 # Screenshots
-##### FileManager Dialog with root project color accent
 ![alt text](https://github.com/sorbh/KdLoadingView/blob/master/raw/demo.gif) 
 
 # Author
